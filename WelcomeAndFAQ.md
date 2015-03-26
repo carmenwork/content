@@ -139,11 +139,13 @@ The board we’re using for this release, the Intel Galileo, is an Arduino-certi
 **Q:** Where can I go to find out more information about IoT at Microsoft?  
 **A:** There are several sites and resources which are of interest:
 
-*   [WindowsOnDevices.com](http://www.WindowsOnDevices.com)  
+*   [WinHec 2015 "Building Devices with Windows 10 IoT" Session Slides](http://channel9.msdn.com/Events/WinHEC/2015/IOT201)
+*   [Windows 10 IoT: Powering the Internet of Things](http://blogs.windows.com/bloggingwindows/2015/03/18/windows-10-iot-powering-the-internet-of-things/)
 *   [Build 2014 IoT session](http://channel9.msdn.com/Events/Build/2014/2-511)  
-*   [Windows Embedded site](http://microsoft.com/windowsembedded)  
-*   [IoT blog](http://blogs.msdn.com/b/windows-embedded)
+*   [IoT blog](http://blogs.microsoft.com/iot/)
 *   [Azure IoT Suite](http://www.microsoft.com/en-us/server-cloud/internet-of-things.aspx#Fragment_Scenario4)
+*   [WindowsOnDevices.com](http://www.WindowsOnDevices.com) 
+*   [Windows Embedded site](http://microsoft.com/windowsembedded)  
 
 
 ###Lifecycle and Other Products
