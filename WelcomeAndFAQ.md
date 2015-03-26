@@ -100,8 +100,7 @@ Developers can add additional code to output debug messages to Visual Studio or 
  
 **Q:**  What is Galileo?  
 **A:**  For this release, we’ve targeted the Intel Galileo hardware development board.  The Intel Galileo v1 is a hardware development board that contains a Quark CPU and a number of hardware device interfaces, including I2C, UART, SPI, GPIO, USB, and PCI-E.  The pin arrangement on the Galileo complies with the Arduino hardware spec, meaning the Galileo itself qualifies as an “Arduino board”.  This version of Galileo is “headless”, meaning it has no on-board video outputs.  For a more complete and technically thorough definition, please see Intel’s documentation:
-https://communities.intel.com/community/makers/documentation/galileodocuments 
-
+<https://communities.intel.com/community/makers/galileo/documentation/intel-galileo-gen-2-development-board-documents>
 
 **Q:** What is Quark? Where can I learn more?  
 **A:** The Intel Quark system on chip (SOC -- pronounced "Sock") is essentially a complete PC on a 5mm integrated circuit.  It is intended for small, low power installations.  It includes an instruction set which is similar to Pentium 586. Like the original Pentium, it is lacking vector instruction sets such as SSE and MMX. For a more complete and more technically thorough definition, please see Intel’s documentation:
@@ -140,11 +139,11 @@ The board we’re using for this release, the Intel Galileo, is an Arduino-certi
 **Q:** Where can I go to find out more information about IoT at Microsoft?  
 **A:** There are several sites and resources which are of interest:
 
-[WindowsOnDevices.com](http://www.WindowsOnDevices.com)  
-[Build 2014 IoT session](http://channel9.msdn.com/Events/Build/2014/2-511)  
-[Windows Embedded site](http://microsoft.com/windowsembedded)  
-[IoT blog](http://blogs.msdn.com/b/windows-embedded/)
-[Azure IoT Suite](http://www.microsoft.com/en-us/server-cloud/internet-of-things.aspx#Fragment_Scenario4)
+*   [WindowsOnDevices.com](http://www.WindowsOnDevices.com)  
+*   [Build 2014 IoT session](http://channel9.msdn.com/Events/Build/2014/2-511)  
+*   [Windows Embedded site](http://microsoft.com/windowsembedded)  
+*   [IoT blog](http://blogs.msdn.com/b/windows-embedded)
+*   [Azure IoT Suite](http://www.microsoft.com/en-us/server-cloud/internet-of-things.aspx#Fragment_Scenario4)
 
 
 ###Lifecycle and Other Products
